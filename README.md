@@ -1,1 +1,3 @@
 # MachineLearningR
+
+Store code from learning Machine Learning examples using R (duh!). Use at your own risk...
